@@ -1,0 +1,16 @@
+cada doce, contem atributos
+1-sim
+0-nao
+chocolate: Contém chocolate?
+frutado: Tem sabor de fruta?
+caramelo: Tem caramelo no doce?
+amendoimalmondy: Contém amendoim, manteiga de amendoim ou amêndoas?
+nougat: Contém nougat?
+wafer de arroz crocante: Contém arroz crocante, wafers ou um componente de biscoito?
+difícil: É um doce duro?
+barra: É uma barra de chocolate?
+pluribus: É um dos muitos doces em um saco ou caixa?
+sugarpercent: O percentual de açúcar ao qual se enquadra no conjunto de dados.
+pricepercent: O percentil do preço unitário em comparação com o resto do conjunto.
+winpercent: A porcentagem geral de vitórias de acordo com 269.000 confrontos.
+No total, foram coletados mais de 269 mil votos de 8.371 endereços IP diferentes.
